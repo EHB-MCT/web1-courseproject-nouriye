@@ -59,6 +59,7 @@ Hier zijn de bronnen die ik heb gebruikt voor dit project:
 - [w3schools HTML](https://www.w3schools.com/html/default.asp)
 - [Youtube](https://youtu.be/ldwlOzRvYOU?si=wZ0nODCXxmN-8Z-G)
 - [Youtube](https://www.youtube.com/watch?v=oYRda7UtuhA)
+- [Youtube](https://youtu.be/KFJbIyqgGt0?si=-SwnjGczlGuxp1YW)
 
 
    
